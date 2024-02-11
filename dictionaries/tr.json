@@ -1,0 +1,172 @@
+{
+  "experiences": [
+    {
+      "id": 1,
+      "company": "Freelancer",
+      "position": "Junior Frontend Developer",
+      "year": "2020",
+      "city": "İstanbul"
+    },
+    {
+      "id": 2,
+      "company": "Medproper Sağlık Turizmi",
+      "position": "Dijital Pazarlama ve SEO Uzmanı",
+      "year": "2023",
+      "city": "İstanbul"
+    },
+    {
+      "id": 3,
+      "company": "Mitrotech DTC",
+      "position": "Dijital Pazarlama ve SEO Uzmanı",
+      "year": "2024",
+      "city": "İstanbul"
+    },
+    {
+      "id": 4,
+      "company": "Ulusal Ecza Deposu",
+      "position": "Dijital Pazarlama ve SEO Uzmanı",
+      "year": "2024",
+      "city": "İstanbul"
+    },
+    {
+      "id": 5,
+      "company": "Şahmaksan Makina",
+      "position": "Dijital Pazarlama ve SEO Uzmanı",
+      "year": "2024",
+      "city": "İstanbul"
+    }
+  ],
+  "education": [
+    {
+      "id": 6,
+      "school": "Gazikent İlköğretim Okulu",
+      "year": "1999 - 2007",
+      "address": "İlk-Orta Öğrenim",
+      "province": "Gaziosmanpaşa - İstanbul"
+    },
+    {
+      "id": 7,
+      "school": "Alibeyköy Anadolu Teknik Lisesi",
+      "year": "2007 - 2008",
+      "address": "Elektrik - Elektronik",
+      "province": "Eyüp - İstanbul"
+    },
+    {
+      "id": 8,
+      "school": "Alibeyköy Anadolu Lisesi",
+      "year": "2008 - 2011",
+      "address": "Türkçe - Matematik",
+      "province": "Eyüp - İstanbul"
+    },
+    {
+      "id": 9,
+      "school": "İstanbul Üniversitesi",
+      "year": "2012 - 2016",
+      "address": "İletişim Fakültesi - RTS",
+      "province": "Fatih - İstanbul"
+    }
+  ],
+  "homeTitle": [
+    {
+      "id": 10,
+      "title": "Google Ads ve SEO Danışmanı - Frontend Web Geliştirici",
+      "description": "Dijital dünyanın avantajlarını yakalamak için danışmanlığa mı ihtiyacınız var? Google Ads, SEO ve yeni bir web sitesi için aklınızda olan tüm sorulara cevap bulalım!"
+    }
+  ],
+  "call": [
+    {
+      "id": 11,
+      "title": "SEO ve Google Ads Çalışmaları ile Dijitalleşmeyi Kaçırmayın!",
+      "description": "SEO çalışmaları ile organik büyümeyi hedeflerken aynı zamanda Google Ads üzerinden reklamlar oluşturarak müşterileriniz önüne çıkın. Satışlarınızı artırın, keyfinize bakın."
+    }
+  ],
+  "brands": [
+    {
+      "id": 12,
+      "title": "Referanslar",
+      "description": "İşte çalışmalarını yürüttüğüm markalar!"
+    }
+  ],
+  "footer": [
+    {
+      "id": 13,
+      "title": "İletişime Geç",
+      "description": "Bilgi almaktan çekinme!"
+    }
+  ],
+  "products": [
+    {
+      "id": 14,
+      "title": "Google Ads",
+      "description": "Bütçenizi verimli kullanarak satışlarınızı artırın, başarıya ulaşın."
+    },
+    {
+      "id": 15,
+      "title": "SEO",
+      "description": "Hedefiniz iyi yerlere gelmek mi? SEO ve teknik SEO ile web sitenizi en iyi şekilde optimize edelim."
+    },
+    {
+      "id": 16,
+      "title": "Frontend Web Geliştirme",
+      "description": "En yeni web teknolojileriyle hızlı ve SEO uyumlu bir web siteniz olsun."
+    }
+  ],
+  "cv": [
+    {
+      "id": 17,
+      "title": "Özgeçmişim"
+    }
+  ],
+  "cvDetail": [
+    {
+      "id": 18,
+      "title": "Eğitim",
+      "description": "1999 - ∞"
+    },
+    {
+      "id": 19,
+      "title": "Deneyimler",
+      "description": "2016 - Günümüz",
+      "company": "Şirket",
+      "py": "Pozisyon- Yıl"
+    }
+  ],
+  "buttons": [
+    {
+      "id": 20,
+      "wpButton": "Whatsapp'tan Yazın",
+      "langButton": "Dil",
+      "homeButton": "Ana Sayfa",
+      "cvButton": "Özgeçmişim",
+      "aboutButton": "Hakkımda"
+    }
+  ],
+  "about": [
+    {
+      "id": 21,
+      "about": "Hakkımda",
+      "description": "1999 yılında eğitime başladım. 2011 yılında lise, 2016 yılında da İstanbul Üniversitesi İletişim Fakültesi’nden mezun oldum. Aynı yıllarda TRT İstanbul Radyosu Gençlik Korosu’nda müzik hayatıma başladım. İDSO ile Zorlu PSM, Lütfi Kırdar gibi sahnelerde 9. Senfoni gibi büyük eserleri seslendirdim. 2017-2020 yılları arasında otomobil ticareti ile uğraştım. 2020-2022 yıllarında yazılım alanında çalışmalar yaptım. 2023 yılı ile beraber ise SEO, Ads ve yazılım alanında çalışmalar yapmaktayım."
+    }
+  ],
+  "metadataHome": [
+    {
+      "id": 22,
+      "title": "Onur Koç - Dijital Koçunuz",
+      "description": "SEO, Google Ads, Frontend Web Geliştirici"
+    }
+  ],
+  "metadataCv": [
+    {
+      "id": 23,
+      "title": "Onur Koç - Özgeçmiş",
+      "description": "SEO, Google Ads, Frontend Web Geliştirici"
+    }
+  ],
+  "metadataAbout": [
+    {
+      "id": 24,
+      "title": "Onur Koç - Hakkımda",
+      "description": "SEO, Google Ads, Frontend Web Geliştirici"
+    }
+  ]
+}

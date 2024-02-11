@@ -1,0 +1,172 @@
+{
+  "experiences": [
+    {
+      "id": 1,
+      "company": "Freelancer",
+      "position": "Junior Frontend Developer",
+      "year": "2020",
+      "city": "Istanbul"
+    },
+    {
+      "id": 2,
+      "company": "Medproper Health Tourism",
+      "position": "Digital Marketing and SEO Specialist",
+      "year": "2023",
+      "city": "Istanbul"
+    },
+    {
+      "id": 3,
+      "company": "Mitrotech DTC",
+      "position": "Digital Marketing and SEO Specialist",
+      "year": "2024",
+      "city": "Istanbul"
+    },
+    {
+      "id": 4,
+      "company": "Ulusal Ecza Deposu",
+      "position": "Digital Marketing and SEO Specialist",
+      "year": "2024",
+      "city": "Istanbul"
+    },
+    {
+      "id": 5,
+      "company": "Şahmaksan Machine",
+      "position": "Digital Marketing and SEO Specialist",
+      "year": "2024",
+      "city": "Istanbul"
+    }
+  ],
+  "education": [
+    {
+      "id": 6,
+      "school": "Gazikent First School",
+      "year": "1999 - 2007",
+      "address": "First-Pre-High School",
+      "province": "Gaziosmanpasa - Istanbul"
+    },
+    {
+      "id": 7,
+      "school": "Alibeykoy Anatolian Technical High School",
+      "year": "2007 - 2008",
+      "address": "Electrical - Electronic",
+      "province": "Eyup - Istanbul"
+    },
+    {
+      "id": 8,
+      "school": "Alibeykoy Anatolian High School",
+      "year": "2008 - 2011",
+      "address": "Turkish - Math",
+      "province": "Eyup - İstanbul"
+    },
+    {
+      "id": 9,
+      "school": "İstanbul University",
+      "year": "2012 - 2016",
+      "address": "Faculty of Communication - RTC",
+      "province": "Fatih - Istanbul"
+    }
+  ],
+  "homeTitle": [
+    {
+      "id": 10,
+      "title": "Google Ads and SEO Specialist - Frontend Web Developer",
+      "description": "Do you need consultancy to catch the advantages of the digital world? Let's find answers to all the questions you have in mind for Google Ads, SEO and a new website!"
+    }
+  ],
+  "call": [
+    {
+      "id": 11,
+      "title": "Don't Miss Digitalisation with SEO and Google Ads Studies!",
+      "description": "While aiming organic growth with SEO studies, at the same time, get in front of your customers by creating adverts via Google Ads. Increase your sales, enjoy yourself."
+    }
+  ],
+  "brands": [
+    {
+      "id": 12,
+      "title": "Referances",
+      "description": "Here are the brands I work with!"
+    }
+  ],
+  "footer": [
+    {
+      "id": 13,
+      "title": "Get Contact",
+      "description": "Do not hesitate ask for information!"
+    }
+  ],
+  "products": [
+    {
+      "id": 14,
+      "title": "Google Ads",
+      "description": "Increase your sales by using your budget efficiently and achieve success."
+    },
+    {
+      "id": 15,
+      "title": "SEO",
+      "description": "Is your goal to come to good places? Let us optimise your website with SEO and technical SEO."
+    },
+    {
+      "id": 16,
+      "title": "Frontend Web Development",
+      "description": "Have a fast and SEO compatible website with the latest web technologies."
+    }
+  ],
+  "cv": [
+    {
+      "id": 17,
+      "title": "My Resume"
+    }
+  ],
+  "cvDetail": [
+    {
+      "id": 18,
+      "title": "Education",
+      "description": "1999 - ∞"
+    },
+    {
+      "id": 19,
+      "title": "Experiences",
+      "description": "2016 - Present",
+      "company": "Company",
+      "py": "Position - Year"
+    }
+  ],
+  "buttons": [
+    {
+      "id": 20,
+      "wpButton": "Type on Whatsapp",
+      "langButton": "Language",
+      "homeButton": "Home",
+      "cvButton": "Resume",
+      "aboutButton": "About Me"
+    }
+  ],
+  "about": [
+    {
+      "id": 21,
+      "about": "About Me",
+      "description": "I started education in 1999. I graduated from high school in 2011 and graduated from Istanbul University Faculty of Communication in 2016. In the same years, I started my music life in TRT Istanbul Radio Youth Choir. I performed great works such as the 9th Symphony on stages such as Zorlu PSM and Lütfi Kırdar with IDSO. Between 2017-2020, I was engaged in automobile trade. In 2020-2022, I worked in the field of software. With 2023, I have been working in the field of SEO, Ads and software."
+    }
+  ],
+  "metadataHome": [
+    {
+      "id": 22,
+      "title": "Onur Koç - Your Digital Coach",
+      "description": "SEO, Google Ads, Frontend Web Development"
+    }
+  ],
+  "metadataCv": [
+    {
+      "id": 23,
+      "title": "Onur Koç - Resume",
+      "description": "SEO, Google Ads, Frontend Web Development"
+    }
+  ],
+  "metadataAbout": [
+    {
+      "id": 24,
+      "title": "Onur Koç - About Me",
+      "description": "SEO, Google Ads, Frontend Web Development"
+    }
+  ]
+}
