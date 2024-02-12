@@ -24,8 +24,8 @@ export async function generateMetadata(
     },
     alternates: {
       languages: {
-        "en-US": "/en/ozgecmis",
-        "tr-TR": "/tr/özgecmis",
+        "en-US": `${process.env.PUBLIC_NEXT_BASE_URL}/en/ozgecmis/}`,
+        "tr-TR": `${process.env.PUBLIC_NEXT_BASE_URL}/tr/ozgecmis/}`,
       },
     },
   };
@@ -33,7 +33,7 @@ export async function generateMetadata(
 
 export default async function Ozgecmis({ params: { lang } }: any) {
   const dict = await getDictionary(lang);
-  const title: any = dict.cv[0].title;
+  const { title, description }: any = dict.cv[0];
 
   return (
     <>
@@ -42,6 +42,7 @@ export default async function Ozgecmis({ params: { lang } }: any) {
           <h1 className="font-normal text-gray-900 text-4xl md:text-5xl mb-8">
             {title}
           </h1>
+          <p className="px-20 mb-10">{description}</p>
         </div>
         <div>
           <Education {...dict} />

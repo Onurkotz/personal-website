@@ -26,8 +26,8 @@ export async function generateMetadata(
     },
     alternates: {
       languages: {
-        "en-US": "/en/",
-        "tr-TR": "/tr/",
+        "en-US": `${process.env.PUBLIC_NEXT_BASE_URL}/en/`,
+        "tr-TR": `${process.env.PUBLIC_NEXT_BASE_URL}/tr/`,
       },
     },
   };

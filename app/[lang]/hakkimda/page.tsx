@@ -22,8 +22,8 @@ export async function generateMetadata(
     },
     alternates: {
       languages: {
-        "en-US": "/en/hakkimda",
-        "tr-TR": "/tr/hakkimda",
+        "en-US": `${process.env.PUBLIC_NEXT_BASE_URL}/en/hakkimda/}`,
+        "tr-TR": `${process.env.PUBLIC_NEXT_BASE_URL}/tr/hakkimda/}`,
       },
     },
   };
@@ -45,7 +45,7 @@ export default async function Hakkimda({ params: { lang } }: any) {
                   <img
                     src="https://picsum.photos/1200/800"
                     alt="aboutimage"
-                    className="relative z-10 object-cover w-full rounded h-96"
+                    className="relative z-10 object-cover w-full rounded h-auto"
                   />
                 </div>
               </div>

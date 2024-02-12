@@ -114,7 +114,8 @@
   "cv": [
     {
       "id": 17,
-      "title": "My Resume"
+      "title": "My Resume",
+      "description": "Learning never ends. Since the first day I started my school life, I have been on my way without losing my enthusiasm for learning. I enjoy learning various SEO tools (Search Console, GA4, Tag Manager, Ahrefs, Semrush, etc.) and Google Ads, as well as the latest web technologies such as Next.js and using them in my projects."
     }
   ],
   "cvDetail": [
