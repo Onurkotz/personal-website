@@ -169,5 +169,26 @@
       "title": "Onur Koç - Hakkımda",
       "description": "SEO, Google Ads, Frontend Web Geliştirici"
     }
-  ]
+  ],
+  "digitalMarkentig": [
+    {
+      "id": 25,
+      "title": "Dijital Pazarlama Nedir?",
+      "description": "Dijital pazarlama, internet ve dijital teknolojilerin kullanılmasıyla ürün ve hizmetlerin tanıtımı, pazarlanması ve satışının gerçekleştirildiği bir pazarlama türüdür. Geleneksel pazarlama yöntemlerine kıyasla dijital pazarlama, web siteleri, sosyal medya platformları, mobil uygulamalar, arama motorları ve diğer dijital kanallar aracılığıyla hedef kitlelere ulaşmayı hedefler.",
+      "descriptionSec": "Dijital pazarlama stratejileri genellikle içerik pazarlaması, sosyal medya pazarlaması, arama motoru optimizasyonu (SEO), arama motoru pazarlaması (SEM), e-posta pazarlaması, içerik pazarlaması ve diğer çevrimiçi taktiklerle entegre edilir. Bu stratejiler, markaların çevrimiçi varlıklarını güçlendirmelerine, potansiyel müşterilerle etkileşime girmelerine ve sonuçta satışları artırmalarına yardımcı olur."
+    }
+  ],
+  "digitalMarkentigAlt": [
+    {
+      "id": 26,
+      "title": "SEO (Search Engine Optimization) Nedir?",
+      "description": "SEO, Search Engine Optimization'ın kısaltmasıdır ve Türkçe olarak Arama Motoru Optimizasyonu anlamına gelir. SEO, bir web sitesinin arama motorlarında organik olarak daha iyi sıralamalarda görünmesini sağlamak için yapılan çeşitli tekniklerin ve stratejilerin bütünüdür."
+    },
+    {
+      "id": 27,
+      "title": "Frontend Web Geliştirici Nedir?",
+      "description": "Frontend web geliştirici, bir web sitesinin veya web uygulamasının kullanıcı arayüzünü geliştiren ve tasarlayan kişidir. Frontend geliştiriciler, web sayfalarının ve uygulamalarının görsel ve etkileşimli yönlerini oluşturur ve kullanıcıların web içeriğiyle etkileşim kurmasını sağlar."
+    }
+  ],
+  "productsTitle": "Birlikte Neler Yapabiliriz?"
 }

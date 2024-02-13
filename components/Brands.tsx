@@ -1,4 +1,4 @@
-'use client'
+"use client";
 import Image from "next/image";
 import brand1 from "../assets/image/brand-1.png";
 import brand2 from "/assets/image/brand-2.png";

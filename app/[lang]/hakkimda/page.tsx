@@ -58,7 +58,7 @@ export default async function Hakkimda({ params: { lang } }: any) {
                     {about.about}
                   </h1>
                 </div>
-                <p className="text-justify mb-6 text-base leading-7 text-gray-500 dark:text-gray-400">
+                <p className="indent-10 text-justify mb-6 text-base leading-7 text-gray-500 dark:text-gray-400">
                   {about.description}
                 </p>
               </div>

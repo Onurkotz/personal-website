@@ -3,11 +3,19 @@ import { Codesandbox, Activity, Coffee } from "react-feather";
 
 export default function Products({ ...dict }: any) {
   const products: any = dict.products;
+  const title: any = dict.productsTitle;
 
   return (
     <section className="py-10 md:py-16">
       <div className="container max-w-screen-xl mx-auto px-4">
+        <div className="text-center">
+        <h2 className="font-medium text-gray-700 text-3xl md:text-4xl mb-8">
+          {title}
+        </h2>
+        </div>
+        
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-14">
+          
           <div className="bg-gray-50 px-8 py-10 grid justify-items-center rounded-md">
             <div className="w-20 py-6 flex justify-center bg-gray-100 rounded-md mb-4">
               <i>

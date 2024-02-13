@@ -169,5 +169,26 @@
       "title": "Onur Koç - About Me",
       "description": "SEO, Google Ads, Frontend Web Development"
     }
-  ]
+  ],
+  "digitalMarkentig": [
+    {
+      "id": 25,
+      "title": "What is Digital Marketing?",
+      "description": "Digital marketing is a type of marketing in which products and services are promoted, marketed and sold by using the internet and digital technologies. Compared to traditional marketing methods, digital marketing aims to reach target audiences through websites, social media platforms, mobile applications, search engines and other digital channels.",
+      "descriptionSec": "Digital marketing strategies are often integrated with content marketing, social media marketing, search engine optimisation (SEO), search engine marketing (SEM), email marketing, content marketing and other online tactics. These strategies help brands strengthen their online presence, engage with potential customers and ultimately increase sales."
+    }
+  ],
+  "digitalMarkentigAlt": [
+    {
+      "id": 26,
+      "title": "What is SEO (Search Engine Optimization)?",
+      "description": "SEO stands for Search Engine Optimisation. SEO is a set of various techniques and strategies to make a website appear organically better ranked in search engines."
+    },
+    {
+      "id": 27,
+      "title": "What is Frontend Web Developer?",
+      "description": "A frontend web developer is someone who develops and designs the user interface of a website or web application. Frontend developers create the visual and interactive aspects of web pages and applications and enable users to interact with web content."
+    }
+  ],
+  "productsTitle": "What Can We Do Together?"
 }

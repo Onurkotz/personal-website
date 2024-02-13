@@ -1,6 +1,7 @@
 import type { Metadata, ResolvingMetadata } from "next";
 import { getDictionary } from "../../lib/dictionaries";
 import TopField from "@/components/TopField";
+import Informaitons from "@/components/Informaitons";
 import Products from "@/components/Products";
 import Call from "@/components/Call";
 import Brands from "@/components/Brands";
@@ -39,6 +40,7 @@ export default async function Home({ params: { lang } }: any) {
   return (
     <section className="py-4 px-4 md:py-4 md:px-4">
       <TopField {...dict} />
+      <Informaitons {...dict} />
       <Products {...dict} />
       <Call {...dict} />
       <Brands {...dict} />

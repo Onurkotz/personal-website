@@ -42,7 +42,7 @@ export default async function Ozgecmis({ params: { lang } }: any) {
           <h1 className="font-normal text-gray-900 text-4xl md:text-5xl mb-8">
             {title}
           </h1>
-          <p className="px-20 mb-10">{description}</p>
+          <p className="text-justify md:text-center px-6 md:px-20 mb-10">{description}</p>
         </div>
         <div>
           <Education {...dict} />
