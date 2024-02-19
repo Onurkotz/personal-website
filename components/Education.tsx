@@ -1,8 +1,8 @@
-'use client'
+"use client";
 export default function Education({ ...dict }: any) {
   const education: any = dict.education;
   const title: any = dict.cvDetail[0];
-  
+
   return (
     <div className="container max-w-screen-xl mx-auto px-4">
       <h2 className="font-medium text-gray-700 text-3xl md:text-4xl mb-5">

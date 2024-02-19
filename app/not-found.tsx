@@ -1,15 +1,15 @@
-
-import "../../style/global.css";
-import photo from "../../assets/image/a-man-drinks-tea.webp";
-import Image from "next/image";
+import photo from "../assets/image/a-man-drinks-tea.webp";
 import Link from "next/link";
-
+import Image from "next/image";
 import type { Metadata } from "next";
+// import { i18n } from "@/i18n";
 
 export const metadata: Metadata = {
   title: "Onur Koç - Sayfa Bulunamdı",
   description: "SEO, Ads, Frontend Web Development",
 };
+
+// console.log(i18n.locales)
 
 export default function NotFound() {
   return (

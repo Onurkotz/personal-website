@@ -190,5 +190,10 @@
       "description": "Frontend web geliştirici, bir web sitesinin veya web uygulamasının kullanıcı arayüzünü geliştiren ve tasarlayan kişidir. Frontend geliştiriciler, web sayfalarının ve uygulamalarının görsel ve etkileşimli yönlerini oluşturur ve kullanıcıların web içeriğiyle etkileşim kurmasını sağlar."
     }
   ],
-  "productsTitle": "Birlikte Neler Yapabiliriz?"
+  "productsTitle": "Birlikte Neler Yapabiliriz?",
+  "downloadButton": {
+    "id": 28,
+    "buttonText": "Özgeçmişimi İndir",
+    "processText": "İndiriliyor..."
+  }
 }

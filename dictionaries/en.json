@@ -190,5 +190,10 @@
       "description": "A frontend web developer is someone who develops and designs the user interface of a website or web application. Frontend developers create the visual and interactive aspects of web pages and applications and enable users to interact with web content."
     }
   ],
-  "productsTitle": "What Can We Do Together?"
+  "productsTitle": "What Can We Do Together?",
+  "downloadButton": {
+    "id": 28,
+    "buttonText": "Download CV",
+    "processText": "Dowloading..."
+  }
 }

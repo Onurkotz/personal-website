@@ -1,11 +1,10 @@
-'use client'
+"use client";
 
 import Link from "next/link";
 
 import { Twitter, Instagram } from "react-feather";
 
-export default function Footer({...dict}: any) {
-
+export default function Footer({ ...dict }: any) {
   const footer: any = dict.footer[0];
 
   return (
@@ -17,7 +16,7 @@ export default function Footer({...dict}: any) {
           </h2>
 
           <p className="font-normal text-gray-400 text-md md:text-lg mb-6">
-          {footer.description}
+            {footer.description}
           </p>
 
           <div className="flex items-center justify-center mb-10">
